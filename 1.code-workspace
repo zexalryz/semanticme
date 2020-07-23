@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\DvN-PC\\Desktop\\profile"
+		},
+		{
+			"path": "C:\\Bitnami\\wampstack-7.2.24-0\\apache2\\htdocs\\php"
+		},
+		{
+			"path": "C:\\Users\\DvN-PC\\webapp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Users\\DvN-PC\\gege"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "semanticme",
+		"git.ignoreLimitWarning": true
+	}
+}
